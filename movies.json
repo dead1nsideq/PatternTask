@@ -1,0 +1,83 @@
+{
+  "Harry Potter": {
+    "title": "Harry Potter",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "actorSet": [
+      "Daniel Radcliffe",
+      "Emma Watson"
+    ],
+    "directorName": "Chris Columbus",
+    "shortReview": "Some short Review about HP",
+    "countOfRent": 1,
+    "priceCode": {
+      "type": "NewRelease"
+    },
+    "audienceType": {
+      "type": "Children"
+    }
+  },
+  "Hobbit": {
+    "title": "Hobbit",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "actorSet": [
+      "Martin Freeman",
+      "Ian McKellen"
+    ],
+    "directorName": "Peter Jackson",
+    "shortReview": "some short review about hobbit",
+    "countOfRent": 2,
+    "priceCode": {
+      "type": "OnSale"
+    },
+    "audienceType": {
+      "type": "Teen"
+    }
+  },
+  "Pulp Fiction": {
+    "title": "Pulp Fiction",
+    "genres": [
+      "Criminal",
+      "Drama"
+    ],
+    "actorSet": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "directorName": "Quentin Tarantino",
+    "shortReview": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "countOfRent": 2,
+    "priceCode": {
+      "type": "Regular"
+    },
+    "audienceType": {
+      "type": "Adult"
+    }
+  },
+  "Movie1": {
+    "title": "Movie1",
+    "genres": [
+      "genre1",
+      "genre2"
+    ],
+    "actorSet": [
+      "Actor1,Actor2"
+    ],
+    "directorName": "Director",
+    "shortReview": "Short reviev",
+    "countOfRent": 0,
+    "priceCode": {
+      "type": "Regular"
+    },
+    "audienceType": {
+      "type": "Children"
+    }
+  }
+}
