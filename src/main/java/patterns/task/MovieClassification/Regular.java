@@ -2,7 +2,7 @@ package patterns.task.MovieClassification;
 
 import java.io.Serializable;
 
-public class Regular implements MovieClassification, Serializable {
+public class Regular implements MovieClassification {
     @Override
     public double getAmount(int daysRented) {
         double res = 2;
